@@ -1,0 +1,16 @@
+#wave{
+	color: #0032FD;
+    padding-top: calc((100% - 1127px) / 2);
+    height: 10em;
+    box-sizing: content-box;
+    background: currentColor;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+#wave svg {
+    display: block;
+    position: relative;
+    top: 10em;
+}
