@@ -1,8 +1,7 @@
-#wave{
+#wave {
 	color: #0032FD;
     padding-top: calc((100% - 1127px) / 2);
-    height: 20em;
-    box-sizing: content-box;
+    height: 31em;
     background: currentColor;
     position: absolute;
     left: 0;
