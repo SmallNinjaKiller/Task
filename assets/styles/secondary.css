@@ -1,7 +1,7 @@
 #wave{
 	color: #0032FD;
     padding-top: calc((100% - 1127px) / 2);
-    height: 7em;
+    height: 10em;
     box-sizing: content-box;
     background: currentColor;
     position: absolute;
@@ -12,5 +12,5 @@
 #wave svg {
     display: block;
     position: relative;
-    top: 7em;
+    top: 10em;
 }
